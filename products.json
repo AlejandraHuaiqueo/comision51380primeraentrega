@@ -1,0 +1,185 @@
+{
+    "lastId": 20,
+    "products": [
+      {
+        "id": 1,
+        "title": "paseador especial",
+        "description": "para perros grandes",
+        "price": 6.9,
+        "thumbnail": "http://dummyimage.com/127x100.png",
+        "code": "c1651866-2dad-4508-b969-aa75ca0d716e",
+        "stock": 71
+      },
+      {
+        "id": 2,
+        "title": "botella y plato salidas",
+        "description": "accesorio mascotas",
+        "price": 9.9,
+        "thumbnail": "http://dummyimage.com/127x100.png",
+        "code": "42dac30a-882a-4ec5-98a3-a8a9111607f9",
+        "stock": 77
+      },
+      {
+        "id": 3,
+        "title": "casaca mascota",
+        "description": "ideal para abrigar a nuestros amigos",
+        "price": 3.2,
+        "thumbnail": "http://dummyimage.com/127x100.png",
+        "code": "8fefa475-d7f4-4ac1-8f9d-6a3ead8fa475",
+        "stock": 66
+      },
+      {
+        "id": 4,
+        "title": "arnes ultra grande",
+        "description": "para mascotas XL",
+        "price": 7.4,
+        "thumbnail": "http://dummyimage.com/127x100.png",
+        "code": "35a45dc2-2cd4-4d3f-a047-87471395f3eb",
+        "stock": 25
+      },
+      {
+        "id": 5,
+        "title": "mochila paseo",
+        "description": "especial para llevar a nuestros amigos pequeños",
+        "price": 2.7,
+        "thumbnail": "http://dummyimage.com/127x100.png",
+        "code": "5fbb76e1-a38c-4778-8149-11fac6d733f3",
+        "stock": 53
+      },
+      {
+        "id": 6,
+        "title": "ropa polar",
+        "description": "Otoño con nuestro mejor amigo",
+        "price": 8.7,
+        "thumbnail": "http://dummyimage.com/127x100.png",
+        "code": "372d8d7f-8d1b-4123-b997-1f163b035180",
+        "stock": 93
+      },
+      {
+        "id": 7,
+        "title": "correa extra larga",
+        "description": "para pasearlos sin soltar",
+        "price": 4.0,
+        "thumbnail": "http://dummyimage.com/127x100.png",
+        "code": "ed67f327-90a0-4f96-8bad-1b7bcbd27c42",
+        "stock": 67
+      },
+      {
+        "id": 8,
+        "title": "arnes de cuero",
+        "description": "elegancia y estilo a nuestros amigos",
+        "price": 2.1,
+        "thumbnail": "http://dummyimage.com/127x100.png",
+        "code": "df6a43c2-cc59-4a72-87ca-71ab674ce4ee",
+        "stock": 41
+      },
+      {
+        "id": 9,
+        "title": "zapatos para la lluvia",
+        "description": "Si llueve sacalo a pasear igual",
+        "price": 5.6,
+        "thumbnail": "http://dummyimage.com/127x100.png",
+        "code": "944402f6-60fe-40a9-812e-2aa1264172ff",
+        "stock": 3
+      },
+      {
+        "id": 10,
+        "title": "jockey para perros",
+        "description": "Protegelo en verano tambien",
+        "price": 3.3,
+        "thumbnail": "http://dummyimage.com/127x100.png",
+        "code": "a8868cc8-6128-43d1-8a9d-3d09b0b46693",
+        "stock": 20
+      },
+      {
+        "id": 11,
+        "title": "calzon protector perrita",
+        "description": "para cuidar a la pequeña hembra",
+        "price": 5.0,
+        "thumbnail": "http://dummyimage.com/127x100.png",
+        "code": "73c6461d-7bc6-4824-9834-88a330913f74",
+        "stock": 27
+      },
+      {
+        "id": 12,
+        "title": "silvato entrenamiento",
+        "description": "Enseña a tu amigo",
+        "price": 1.9,
+        "thumbnail": "http://dummyimage.com/127x100.png",
+        "code": "68bb2562-b4db-4a03-a40e-e91d982d34df",
+        "stock": 17
+      },
+      {
+        "id": 13,
+        "title": "gps",
+        "description": "Para qu tu mejor amigo no se pierda",
+        "price": 3.3,
+        "thumbnail": "http://dummyimage.com/127x100.png",
+        "code": "37dc5d3a-8d4e-438b-a90c-85580516a388",
+        "stock": 29
+      },
+      {
+        "id": 14,
+        "title": "cortador uñas mascota",
+        "description": "el accesorio ideal para tu amigo",
+        "price": 9.7,
+        "thumbnail": "http://dummyimage.com/127x100.png",
+        "code": "dbc5de44-d7fe-4745-88e1-1bfd76d48f25",
+        "stock": 58
+      },
+      {
+        "id": 15,
+        "title": "casaca para el agua",
+        "description": "el complemento ideal para pasear a tu mascota",
+        "price": 1.3,
+        "thumbnail": "http://dummyimage.com/127x100.png",
+        "code": "24e731f7-0c29-4975-8380-439ef5ce251c",
+        "stock": 90
+      },
+      {
+        "id": 16,
+        "title": "collar cuero",
+        "description": "tu perro se vera perfecto",
+        "price": 8.8,
+        "thumbnail": "http://dummyimage.com/127x100.png",
+        "code": "32873f77-2cc6-4351-846c-7352bf252b04",
+        "stock": 43
+      },
+      {
+        "id": 17,
+        "title": "correa refractante",
+        "description": "ideal para su paseo de noche",
+        "price": 8.3,
+        "thumbnail": "http://dummyimage.com/127x100.png",
+        "code": "ec39ae61-4f81-4d57-b9ce-41559a756dc0",
+        "stock": 37
+      },
+      {
+        "id": 18,
+        "title": "toallitas sanitarias",
+        "description": "para lipiarlos despues de sus paseos",
+        "price": 8.3,
+        "thumbnail": "http://dummyimage.com/127x100.png",
+        "code": "d6c92ca9-6399-45b0-9cd8-822aa8cc3e10",
+        "stock": 31
+      },
+      {
+        "id": 19,
+        "title": "cepillo mascotas",
+        "description": "cepillo electrico paara mascotas",
+        "price": 10.0,
+        "thumbnail": "http://dummyimage.com/121x100.png",
+        "code": "9f51402f-0dcc-48e5-bddd-3c687c33b8b8",
+        "stock": 27
+      },
+      {
+        "id": 20,
+        "title": "ropa perros pqueños",
+        "description": "manten a tu amigo abrigado",
+        "price": 1.7,
+        "thumbnail": "http://dummyimage.com/127x100.png",
+        "code": "93fd155f-a48b-4794-b2c3-0b549a6db67e",
+        "stock": 65
+      }
+    ]
+  }

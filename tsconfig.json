@@ -1,0 +1,47 @@
+{
+"module": "ES2020",                                     
+    "rootDir": "src",                         
+    "moduleResolution": "node",  
+
+    "outDir": "dist", 
+    "esModuleInterop": true,
+    "strict": true,                                      
+    "noImplicitAny": true,
+    "noImplicitReturns": true, 
+
+    "noImplicitOverride": true,  
+    "skipLibCheck": true                                 
+}
+{
+  "compilerOptions": {
+    "module": "commonjs"
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}"
+	"vscode" : {
+		"rewriteTsconfig" : false
+	}
+},{
+  "compilerOptions": {
+    "module": "commonjs"
+  },
+  "exclude": [
+    "node_modules"
+  ]
+} 
+
+"include": ["src/**/*"],
+"exclude": ["node_modules"],
+"files": [
+  "src/global.d.ts"
+{
+  "compilerOptions": {
+    "module": "commonjs"
+  },
+  "exclude": [
+    "node_modules"
+  ]
+ }]
+ 
